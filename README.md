@@ -8,4 +8,7 @@
 {
   "url": "sua-url-aqui"
 }
+```
+
+- **GET /url/{codigo}** Para redirecionar para a URL original, acesse essa rota com o código gerado após a barra.
 
